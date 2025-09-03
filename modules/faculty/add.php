@@ -72,7 +72,7 @@ if (isset($_POST['submit'])) {
                 <input type="text" name="faculty_id" class="form-control" required>
             </div>
             <div class="col-md-6">
-                <label class="form-label">Full Name</label>
+                <label class="form-label">Enter Full Name</label>
                 <input type="text" name="name" class="form-control" required>
             </div>
             <div class="col-md-6">
